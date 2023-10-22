@@ -33,6 +33,13 @@
     border: solid grey 1px;
     width: calc(100vw/9);
     padding-top: calc(100vw/9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: 0;
+    padding: 0;
 }
 
 body {
